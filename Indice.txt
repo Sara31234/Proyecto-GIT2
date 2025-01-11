@@ -1,0 +1,4 @@
+1 - Chistes: en esta carpeta se encuentran tres chistes.
+2 - Adivinanzas: en esta carpeta se encuentran tres adivinanzas.
+3 - Refranes: en esta carpeta se encuentran tres refranes.
+4 - Trabalenguas: en esta carpeta se encuentran tres trabalenguas:
